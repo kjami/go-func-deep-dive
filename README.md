@@ -1,4 +1,4 @@
-# A simple application to practice lists (Arrays, Slices and Maps) in Go
+# A simple application to practice func concepts in Go
 
 - Navigate into the application folder on the command line and run the application using `go run .`
 - This repo is a deep dive into "func" in Go Programming language.
